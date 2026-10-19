@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "dom_id": "846751",
+    "template_id": "x53:46504154475c541b565a5858405b5c414c0f42424218525c415d405746415441404618565a5875041b051b05",
+    "server_elapsed_ms": 6451
+  },
+  "request_id": "5437bb83-c674-4a06-b155-a4f74a706854",
+  "result": {
+    "url": "https://www.githubstatus.com/",
+    "final_url": "https://www.githubstatus.com/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T14:31:37.016639115Z",
+    "title": "GitHub Status",
+    "description": "Welcome to GitHub's home for real-time and historical data on system performance.",
+    "main_text": "Overall Status: All Systems Operational\nComponents:\n- Git Operations: Operational\n- Webhooks: Operational\n- Visit www.githubstatus.com for more information: Operational\n- API Requests: Operational\n- Issues: Operational\n- Pull Requests: Operational\n- Actions: Operational\n- Packages: Operational\n- Pages: Operational\n- Copilot: Operational\n- Codespaces: Operational\n- Copilot AI Model Providers: Operational\nAbout This Site: Check GitHub Enterprise Cloud status by region: - Australia: au.githubstatus.com - EU: eu.githubstatus.com - Japan: jp.githubstatus.com - US: us.githubstatus.com\nPast Incidents:\n- CCA Automations are delayed when starting an Automation\n- [Retroactive] Actions workflow run logs delayed\n- Incident with Actions, Pull Requests and Issues\n- Incident with Git Operations, Issues, Actions and Pull Requests\n- Incident with Git Operations, Pull Requests and Actions\n- Several services are degraded\n- Disruption with some GitHub services\n- Incident with Actions",
+    "language": "en",
+    "links": [
+      {
+        "text": "au.githubstatus.com",
+        "href": "https://au.githubstatus.com"
+      },
+      {
+        "text": "eu.githubstatus.com",
+        "href": "https://eu.githubstatus.com"
+      },
+      {
+        "text": "jp.githubstatus.com",
+        "href": "https://jp.githubstatus.com"
+      },
+      {
+        "text": "us.githubstatus.com",
+        "href": "https://us.githubstatus.com/"
+      },
+      {
+        "text": "GitHub Status",
+        "href": "https://www.githubstatus.com"
+      },
+      {
+        "text": "About This Site",
+        "href": "https://www.githubstatus.com/#about-this-site"
+      },
+      {
+        "text": "Disruption with some GitHub services",
+        "href": "https://www.githubstatus.com/incidents/2kxnqcxcrr7f"
+      },
+      {
+        "text": "Incident with Actions",
+        "href": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb"
+      },
+      {
+        "text": "[Retroactive] Actions workflow run logs delayed",
+        "href": "https://www.githubstatus.com/incidents/6yk962mhlr3h"
+      },
+      {
+        "text": "Incident with Actions, Pull Requests and Issues",
+        "href": "https://www.githubstatus.com/incidents/93njd414rpbx"
+      },
+      {
+        "text": "Several services are degraded",
+        "href": "https://www.githubstatus.com/incidents/cjwszcf57bff"
+      },
+      {
+        "text": "Incident with Git Operations, Pull Requests and Actions",
+        "href": "https://www.githubstatus.com/incidents/djlmxz2zd0j7"
+      },
+      {
+        "text": "Incident with Git Operations, Issues, Actions and Pull Requests",
+        "href": "https://www.githubstatus.com/incidents/qpfv5p86dmrl"
+      },
+      {
+        "text": "CCA Automations are delayed when starting an Automation",
+        "href": "https://www.githubstatus.com/incidents/vlxrztp88101"
+      }
+    ],
+    "engine": "lightmount_lite",
+    "dom_id": "846751",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_lite",
+            "command": "safe_http.get",
+            "stdout": "{\"selected\": \"fast\", \"content_length\": 23538, \"selector\": \"[class*=\\\"content\\\"]\", \"status\": 200, \"final_url\": \"https://www.githubstatus.com/\"}",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "components": [
+        {
+          "name": "Git Operations",
+          "status": "Operational"
+        },
+        {
+          "name": "Webhooks",
+          "status": "Operational"
+        },
+        {
+          "name": "Visit www.githubstatus.com for more information",
+          "status": "Operational"
+        },
+        {
+          "name": "API Requests",
+          "status": "Operational"
+        },
+        {
+          "name": "Issues",
+          "status": "Operational"
+        },
+        {
+          "name": "Pull Requests",
+          "status": "Operational"
+        },
+        {
+          "name": "Actions",
+          "status": "Operational"
+        },
+        {
+          "name": "Packages",
+          "status": "Operational"
+        },
+        {
+          "name": "Pages",
+          "status": "Operational"
+        },
+        {
+          "name": "Copilot",
+          "status": "Operational"
+        },
+        {
+          "name": "Codespaces",
+          "status": "Operational"
+        },
+        {
+          "name": "Copilot AI Model Providers",
+          "status": "Operational"
+        }
+      ],
+      "overall_status": "All Systems Operational",
+      "past_incidents": [
+        "CCA Automations are delayed when starting an Automation",
+        "[Retroactive] Actions workflow run logs delayed",
+        "Incident with Actions, Pull Requests and Issues",
+        "Incident with Git Operations, Issues, Actions and Pull Requests",
+        "Incident with Git Operations, Pull Requests and Actions",
+        "Several services are degraded",
+        "Disruption with some GitHub services",
+        "Incident with Actions"
+      ]
+    }
+  }
+}

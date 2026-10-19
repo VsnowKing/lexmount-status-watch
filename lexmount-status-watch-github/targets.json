@@ -1,0 +1,35 @@
+﻿{
+  "generated_at_note": "Edit freely. Keep public status pages only.",
+  "targets": [
+    {
+      "id": "github",
+      "name": "GitHub",
+      "url": "https://www.githubstatus.com/"
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "url": "https://www.cloudflarestatus.com/"
+    },
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "url": "https://www.vercel-status.com/"
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "url": "https://status.openai.com/"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "url": "https://status.stripe.com/"
+    },
+    {
+      "id": "supabase",
+      "name": "Supabase",
+      "url": "https://status.supabase.com/"
+    }
+  ]
+}

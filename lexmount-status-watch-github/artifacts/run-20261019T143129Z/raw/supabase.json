@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "dom_id": "846757",
+    "server_elapsed_ms": 5911
+  },
+  "request_id": "29bd8f7b-5688-48a8-af3a-b4727b11099f",
+  "result": {
+    "url": "https://status.supabase.com/",
+    "final_url": "https://status.supabase.com/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T14:32:15.555094947Z",
+    "title": "Supabase Status",
+    "description": "Latest service status for Supabase",
+    "main_text": "Supabase Status Report a problem Subscribe to updates Report a problem Subscribe to updates We’re fully operational Having a supa day. All systems are operational. System status Sep 2026 - Oct 2026 Branching 18 components Branching 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Connection Pooler 18 components Connection Pooler 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Data APIs 18 components Data APIs 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Functions 18 components Functions 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Management API 4 components Management API 4 components ap-southeast-1 100 % uptime ap-southeast-1 eu-west-1 100 % uptime eu-west-1 us-east-1 100 % uptime us-east-1 us-west-1 100 % uptime us-west-1 Postgres 18 components Postgres 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Creation 18 components Project Creation 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Resize 18 components Project Resize 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Restore 18 components Project Restore 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Upgrades 18 components Project Upgrades 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Storage 18 components Storage 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Auth 100 % uptime Auth Billing & Payments 100 % uptime Billing & Payments Dashboard 99.93 % uptime Dashboard Logging & Observability 100 % uptime Logging & Observability Realtime 100 % uptime Realtime View history Powered by Privacy policy · Terms of service",
+    "language": "en-us",
+    "links": [
+      {
+        "text": "",
+        "href": "https://incident.io?utm_source=supabase&amp;utm_medium=status-pages"
+      },
+      {
+        "text": "",
+        "href": "https://status.supabase.com/"
+      },
+      {
+        "text": "View history",
+        "href": "https://status.supabase.com/history"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://supabase.com/privacy"
+      },
+      {
+        "text": "Terms of service",
+        "href": "https://supabase.com/terms"
+      },
+      {
+        "text": "Report a problem",
+        "href": "https://supabase.help"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://status.supabase.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2Fcae4baa4-32d4-489e-b94a-75dd081e1e8c&amp;w=3840&amp;q=75",
+        "alt": "Supabase"
+      },
+      {
+        "src": "https://status.supabase.com/og-image.png",
+        "alt": "Supabase Status"
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "846757",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 7754, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://status.supabase.com/\"}",
+            "stderr": "\u001b[2m2026-10-19T14:32:14.777073Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://status.supabase.com/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m868",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "dom_summary": {
+        "headings": [
+          "System status",
+          "Branching",
+          "ap-east-1",
+          "ap-northeast-1",
+          "ap-northeast-2",
+          "ap-south-1",
+          "ap-southeast-1",
+          "ap-southeast-2",
+          "ca-central-1",
+          "eu-central-1"
+        ],
+        "paragraphs": [
+          "We’re fully operational Having a supa day. All systems are operational. System status Sep 2026 - Oct 2026 Branching 18 components Branching 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Connection Pooler 18 components Connection Pooler 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Data APIs 18 components Data APIs 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Functions 18 components Functions 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Management API 4 components Management API 4 components ap-southeast-1 100 % uptime ap-southeast-1 eu-west-1 100 % uptime eu-west-1 us-east-1 100 % uptime us-east-1 us-west-1 100 % uptime us-west-1 Postgres 18 components Postgres 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Creation 18 components Project Creation 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Resize 18 components Project Resize 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Restore 18 components Project Restore 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Project Upgrades 18 components Project Upgrades 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Storage 18 components Storage 18 components ap-east-1 100 % uptime ap-east-1 ap-northeast-1 100 % uptime ap-northeast-1 ap-northeast-2 100 % uptime ap-northeast-2 ap-south-1 100 % uptime ap-south-1 ap-southeast-1 100 % uptime ap-southeast-1 ap-southeast-2 100 % uptime ap-southeast-2 ca-central-1 100 % uptime ca-central-1 eu-central-1 100 % uptime eu-central-1 eu-central-2 100 % uptime eu-central-2 eu-north-1 100 % uptime eu-north-1 eu-west-1 100 % uptime eu-west-1 eu-west-2 100 % uptime eu-west-2 eu-west-3 100 % uptime eu-west-3 sa-east-1 100 % uptime sa-east-1 us-east-1 100 % uptime us-east-1 us-east-2 100 % uptime us-east-2 us-west-1 100 % uptime us-west-1 us-west-2 100 % uptime us-west-2 Auth 100 % uptime Auth Billing & Payments 100 % uptime Billing & Payments Dashboard 99.93 % uptime Dashboard Logging & Observability 100 % uptime Logging & Observability Realtime 100 % uptime Realtime View history Powered by Privacy policy ·"
+        ]
+      },
+      "images_detail": [
+        {
+          "src": "https://status.supabase.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fincident-io-status-page-logos%2Fcae4baa4-32d4-489e-b94a-75dd081e1e8c&amp;w=3840&amp;q=75",
+          "alt": "Supabase"
+        },
+        {
+          "src": "https://status.supabase.com/og-image.png",
+          "alt": "Supabase Status"
+        }
+      ],
+      "metadata": {
+        "canonical": "https://status.supabase.com",
+        "language": "en-US",
+        "title_candidates": [
+          "Supabase Status"
+        ],
+        "meta_tags": {
+          "baggage": "sentry-environment=production,sentry-release=6a6653a5e62a86571c89f825a0ff3012ef641063,sentry-public_key=5d578c0eb4bd4811adf4f2176db9a1c8,sentry-trace_id=3131bce4f2b3455396382730751288fe,sentry-org_id=494704,sentry-sampled=false,sentry-sample_rand=0.9241820452620451,sentry-sample_rate=0",
+          "color-scheme": "dark",
+          "og:description": "Latest service status for Supabase",
+          "og:image": "https://status.supabase.com/og-image.png",
+          "og:image:alt": "Supabase Status",
+          "og:image:height": "630",
+          "og:image:width": "1200",
+          "og:locale": "en-US",
+          "og:site_name": "Supabase Status",
+          "og:title": "Supabase Status",
+          "og:type": "website",
+          "og:url": "https://status.supabase.com",
+          "robots": "index, follow",
+          "sentry-trace": "3131bce4f2b3455396382730751288fe-b53343445d3bd2af-0",
+          "theme-color": "#15171c",
+          "twitter:card": "summary_large_image",
+          "twitter:description": "Latest service status for Supabase",
+          "twitter:image": "https://status.supabase.com/og-image.png",
+          "twitter:image:alt": "Supabase Status",
+          "twitter:image:height": "630",
+          "twitter:image:width": "1200",
+          "twitter:title": "Supabase Status",
+          "viewport": "width=device-width, initial-scale=1"
+        }
+      },
+      "open_graph": {
+        "description": "Latest service status for Supabase",
+        "image": "https://status.supabase.com/og-image.png",
+        "image:alt": "Supabase Status",
+        "image:height": "630",
+        "image:width": "1200",
+        "locale": "en-US",
+        "site_name": "Supabase Status",
+        "title": "Supabase Status",
+        "type": "website",
+        "url": "https://status.supabase.com"
+      },
+      "site_links": [
+        {
+          "text": "View history",
+          "href": "https://status.supabase.com/history"
+        },
+        {
+          "text": "",
+          "href": "https://incident.io?utm_source=supabase&amp;utm_medium=status-pages"
+        },
+        {
+          "text": "",
+          "href": "https://status.supabase.com/"
+        },
+        {
+          "text": "Privacy policy",
+          "href": "https://supabase.com/privacy"
+        },
+        {
+          "text": "Terms of service",
+          "href": "https://supabase.com/terms"
+        },
+        {
+          "text": "Report a problem",
+          "href": "https://supabase.help"
+        }
+      ]
+    }
+  }
+}

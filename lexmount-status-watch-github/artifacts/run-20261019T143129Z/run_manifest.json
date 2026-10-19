@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-10-19T14:31:29.741008Z",
+  "tool": "lexmount-status-watch/1.0",
+  "region_base_url": "https://api.lexmount.cn",
+  "endpoint": "https://api.lexmount.cn/v1/extract",
+  "trace_enabled": false,
+  "targets_file": "C:\\Users\\Administrator\\Documents\\Codex\\2026-10-19\\https-browser-lexmount-cn-events-real\\outputs\\lexmount-status-watch\\targets.json",
+  "target_count": 6,
+  "calls": [
+    {
+      "service_id": "github",
+      "service_name": "GitHub",
+      "target_url": "https://www.githubstatus.com/",
+      "endpoint": "https://api.lexmount.cn/v1/extract",
+      "http_call_ok": true,
+      "request_id": "5437bb83-c674-4a06-b155-a4f74a706854",
+      "dom_id": "846751",
+      "engine": "lightmount_lite",
+      "target_status_code": 200,
+      "raw_file": "raw/github.json",
+      "attempts": [
+        {
+          "attempt": 1,
+          "started_at": "2026-10-19T14:31:29.755876Z",
+          "finished_at": "2026-10-19T14:31:36.446109Z",
+          "http_status": 200,
+          "request_id": "5437bb83-c674-4a06-b155-a4f74a706854"
+        }
+      ]
+    },
+    {
+      "service_id": "cloudflare",
+      "service_name": "Cloudflare",
+      "target_url": "https://www.cloudflarestatus.com/",
+      "endpoint": "https://api.lexmount.cn/v1/extract",
+      "http_call_ok": true,
+      "request_id": "5c4fde40-69a2-4071-8e0d-efd6d178e0d4",
+      "dom_id": "846752",
+      "engine": "lightmount_dcl",
+      "target_status_code": 200,
+      "raw_file": "raw/cloudflare.json",
+      "attempts": [
+        {
+          "attempt": 1,
+          "started_at": "2026-10-19T14:31:36.951629Z",
+          "finished_at": "2026-10-19T14:31:46.046001Z",
+          "http_status": 200,
+          "request_id": "5c4fde40-69a2-4071-8e0d-efd6d178e0d4"
+        }
+      ]
+    },
+    {
+      "service_id": "vercel",
+      "service_name": "Vercel",
+      "target_url": "https://www.vercel-status.com/",
+      "endpoint": "https://api.lexmount.cn/v1/extract",
+      "http_call_ok": true,
+      "request_id": "3e193cf3-3a33-4bea-8b38-362c668c0e92",
+      "dom_id": "846753",
+      "engine": "lightmount_dcl",
+      "target_status_code": 200,
+      "raw_file": "raw/vercel.json",
+      "attempts": [
+        {
+          "attempt": 1,
+          "started_at": "2026-10-19T14:31:46.549226Z",
+          "finished_at": "2026-10-19T14:31:55.391199Z",
+          "http_status": 200,
+          "request_id": "3e193cf3-3a33-4bea-8b38-362c668c0e92"
+        }
+      ]
+    },
+    {
+      "service_id": "openai",
+      "service_name": "OpenAI",
+      "target_url": "https://status.openai.com/",
+      "endpoint": "https://api.lexmount.cn/v1/extract",
+      "http_call_ok": true,
+      "request_id": "7fc2c4a4-e8be-4716-8088-2d1679be5234",
+      "dom_id": "846754",
+      "engine": "lightmount_lite",
+      "target_status_code": 200,
+      "raw_file": "raw/openai.json",
+      "attempts": [
+        {
+          "attempt": 1,
+          "started_at": "2026-10-19T14:31:55.902398Z",
+          "finished_at": "2026-10-19T14:32:01.545234Z",
+          "http_status": 200,
+          "request_id": "7fc2c4a4-e8be-4716-8088-2d1679be5234"
+        }
+      ]
+    },
+    {
+      "service_id": "stripe",
+      "service_name": "Stripe",
+      "target_url": "https://status.stripe.com/",
+      "endpoint": "https://api.lexmount.cn/v1/extract",
+      "http_call_ok": true,
+      "request_id": "45949b84-fd9d-411d-9941-363496f10ab5",
+      "dom_id": "846755",
+      "engine": "lightmount_dcl",
+      "target_status_code": 200,
+      "raw_file": "raw/stripe.json",
+      "attempts": [
+        {
+          "attempt": 1,
+          "started_at": "2026-10-19T14:32:02.048442Z",
+          "finished_at": "2026-10-19T14:32:08.041024Z",
+          "http_status": 200,
+          "request_id": "45949b84-fd9d-411d-9941-363496f10ab5"
+        }
+      ]
+    },
+    {
+      "service_id": "supabase",
+      "service_name": "Supabase",
+      "target_url": "https://status.supabase.com/",
+      "endpoint": "https://api.lexmount.cn/v1/extract",
+      "http_call_ok": true,
+      "request_id": "29bd8f7b-5688-48a8-af3a-b4727b11099f",
+      "dom_id": "846757",
+      "engine": "lightmount_dcl",
+      "target_status_code": 200,
+      "raw_file": "raw/supabase.json",
+      "attempts": [
+        {
+          "attempt": 1,
+          "started_at": "2026-10-19T14:32:08.544103Z",
+          "finished_at": "2026-10-19T14:32:14.689353Z",
+          "http_status": 200,
+          "request_id": "29bd8f7b-5688-48a8-af3a-b4727b11099f"
+        }
+      ]
+    }
+  ],
+  "security_note": "No API key or project id is stored in artifacts."
+}

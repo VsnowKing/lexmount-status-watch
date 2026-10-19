@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "dom_id": "846752",
+    "server_elapsed_ms": 8911
+  },
+  "request_id": "5c4fde40-69a2-4071-8e0d-efd6d178e0d4",
+  "result": {
+    "url": "https://www.cloudflarestatus.com/",
+    "final_url": "https://www.cloudflarestatus.com/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T14:31:47.210576814Z",
+    "title": "Cloudflare Status",
+    "description": "Real-time status and incident history for Cloudflare services, network locations, and scheduled maintenance.",
+    "main_text": "Cloudflare Status Skip to main content Support (opens in new tab) Dashboard (opens in new tab) Local time Showing local times Overview Services & Sites Locations History Cloudflare System Status Subscribe to updates Active incidents Incorrect geo location for some Cloudflare WARP users Identified WARP Identified Recent incidents View All DNS Update Delays Minor Resolved Oct 19, 2026, 11:50 UTC Active maintenance View All No active maintenance View all future maintenance About Us (opens in new tab) Developers (opens in new tab) Help Center (opens in new tab) Community (opens in new tab) Dashboard (opens in new tab) Status API RSS Feeds Notifications",
+    "publish_time": "2026-10-19T11:50:46.197Z",
+    "language": "en",
+    "links": [
+      {
+        "text": "Help Center (opens in new tab)",
+        "href": "https://cloudflare.com/support"
+      },
+      {
+        "text": "Community (opens in new tab)",
+        "href": "https://community.cloudflare.com/"
+      },
+      {
+        "text": "Dashboard (opens in new tab)",
+        "href": "https://dash.cloudflare.com"
+      },
+      {
+        "text": "Developers (opens in new tab)",
+        "href": "https://developers.cloudflare.com/"
+      },
+      {
+        "text": "About Us (opens in new tab)",
+        "href": "https://www.cloudflare.com/about-overview/"
+      },
+      {
+        "text": "Support (opens in new tab)",
+        "href": "https://www.cloudflare.com/support"
+      },
+      {
+        "text": "",
+        "href": "https://www.cloudflarestatus.com/"
+      },
+      {
+        "text": "Overview",
+        "href": "https://www.cloudflarestatus.com/"
+      },
+      {
+        "text": "Skip to main content",
+        "href": "https://www.cloudflarestatus.com/#main-content"
+      },
+      {
+        "text": "Status API",
+        "href": "https://www.cloudflarestatus.com/api"
+      },
+      {
+        "text": "RSS Feeds",
+        "href": "https://www.cloudflarestatus.com/api#incidents-rss"
+      },
+      {
+        "text": "Notifications",
+        "href": "https://www.cloudflarestatus.com/docs/notifications"
+      },
+      {
+        "text": "History",
+        "href": "https://www.cloudflarestatus.com/history"
+      },
+      {
+        "text": "",
+        "href": "https://www.cloudflarestatus.com/history"
+      },
+      {
+        "text": "View All",
+        "href": "https://www.cloudflarestatus.com/history?type=incident"
+      },
+      {
+        "text": "View All",
+        "href": "https://www.cloudflarestatus.com/history?type=maintenance"
+      },
+      {
+        "text": "View all future maintenance",
+        "href": "https://www.cloudflarestatus.com/history?type=scheduled"
+      },
+      {
+        "text": "Incorrect geo location for some Cloudflare WARP users Identified WARP Identified",
+        "href": "https://www.cloudflarestatus.com/incidents/9g65dxfbcjln"
+      },
+      {
+        "text": "DNS Update Delays Minor Resolved Oct 19, 2026, 11:50 UTC",
+        "href": "https://www.cloudflarestatus.com/incidents/ce61s9m7vz48"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.cloudflarestatus.com/locations"
+      },
+      {
+        "text": "",
+        "href": "https://www.cloudflarestatus.com/locations"
+      },
+      {
+        "text": "Services & Sites",
+        "href": "https://www.cloudflarestatus.com/services"
+      },
+      {
+        "text": "",
+        "href": "https://www.cloudflarestatus.com/services"
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "846752",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 656, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.cloudflarestatus.com/\"}",
+            "stderr": "\u001b[2m2026-10-19T14:31:46.937469Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.cloudflarestatus.com/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m972",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "dom_summary": {
+        "headings": [
+          "Cloudflare System Status",
+          "Active incidents",
+          "Incorrect geo location for some Cloudflare WARP users",
+          "Recent incidents",
+          "Active maintenance"
+        ],
+        "paragraphs": [
+          "Showing local times Overview Services & Sites Locations History Cloudflare System Status Subscribe to updates Active incidents Incorrect geo location for some Cloudflare WARP users Identified WARP Identified Recent incidents View All DNS Update Delays",
+          "No active maintenance"
+        ]
+      },
+      "metadata": {
+        "canonical": "/",
+        "language": "en",
+        "title_candidates": [
+          "Cloudflare Status"
+        ],
+        "meta_tags": {
+          "description": "Real-time status and incident history for Cloudflare services, network locations, and scheduled maintenance.",
+          "keywords": "Cloudflare, status, incidents, maintenance, uptime, network status",
+          "og:description": "Real-time status and incident history for Cloudflare services, network locations, and scheduled maintenance.",
+          "og:site_name": "Cloudflare Status",
+          "og:title": "Cloudflare Status",
+          "og:type": "website",
+          "og:url": "https://www.cloudflarestatus.com/",
+          "robots": "index, follow",
+          "theme-color": "#ffffff",
+          "twitter:card": "summary",
+          "twitter:description": "Real-time status and incident history for Cloudflare services, network locations, and scheduled maintenance.",
+          "twitter:title": "Cloudflare Status",
+          "viewport": "width=device-width, initial-scale=1.0"
+        }
+      },
+      "open_graph": {
+        "description": "Real-time status and incident history for Cloudflare services, network locations, and scheduled maintenance.",
+        "site_name": "Cloudflare Status",
+        "title": "Cloudflare Status",
+        "type": "website",
+        "url": "https://www.cloudflarestatus.com/"
+      },
+      "site_links": [
+        {
+          "text": "Skip to main content",
+          "href": "https://www.cloudflarestatus.com/#main-content"
+        },
+        {
+          "text": "",
+          "href": "https://www.cloudflarestatus.com/"
+        },
+        {
+          "text": "Overview",
+          "href": "https://www.cloudflarestatus.com/"
+        },
+        {
+          "text": "Status API",
+          "href": "https://www.cloudflarestatus.com/api"
+        },
+        {
+          "text": "RSS Feeds",
+          "href": "https://www.cloudflarestatus.com/api#incidents-rss"
+        },
+        {
+          "text": "Notifications",
+          "href": "https://www.cloudflarestatus.com/docs/notifications"
+        },
+        {
+          "text": "",
+          "href": "https://www.cloudflarestatus.com/history"
+        },
+        {
+          "text": "History",
+          "href": "https://www.cloudflarestatus.com/history"
+        },
+        {
+          "text": "View All",
+          "href": "https://www.cloudflarestatus.com/history?type=incident"
+        },
+        {
+          "text": "View All",
+          "href": "https://www.cloudflarestatus.com/history?type=maintenance"
+        },
+        {
+          "text": "View all future maintenance",
+          "href": "https://www.cloudflarestatus.com/history?type=scheduled"
+        },
+        {
+          "text": "Incorrect geo location for some Cloudflare WARP users Identified WARP Identified",
+          "href": "https://www.cloudflarestatus.com/incidents/9g65dxfbcjln"
+        },
+        {
+          "text": "DNS Update Delays Minor Resolved Oct 19, 2026, 11:50 UTC",
+          "href": "https://www.cloudflarestatus.com/incidents/ce61s9m7vz48"
+        },
+        {
+          "text": "",
+          "href": "https://www.cloudflarestatus.com/locations"
+        },
+        {
+          "text": "Locations",
+          "href": "https://www.cloudflarestatus.com/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.cloudflarestatus.com/services"
+        },
+        {
+          "text": "Services & Sites",
+          "href": "https://www.cloudflarestatus.com/services"
+        },
+        {
+          "text": "Help Center (opens in new tab)",
+          "href": "https://cloudflare.com/support"
+        },
+        {
+          "text": "Community (opens in new tab)",
+          "href": "https://community.cloudflare.com/"
+        },
+        {
+          "text": "Dashboard (opens in new tab)",
+          "href": "https://dash.cloudflare.com"
+        },
+        {
+          "text": "Developers (opens in new tab)",
+          "href": "https://developers.cloudflare.com/"
+        },
+        {
+          "text": "About Us (opens in new tab)",
+          "href": "https://www.cloudflare.com/about-overview/"
+        },
+        {
+          "text": "Support (opens in new tab)",
+          "href": "https://www.cloudflare.com/support"
+        }
+      ]
+    }
+  }
+}

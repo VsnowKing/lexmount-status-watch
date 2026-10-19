@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "dom_id": "846754",
+    "template_id": "x53:46504154475c541b565a5858405b5c414c0f464154414046185a45505b545c18565a5875041b051b04",
+    "server_elapsed_ms": 5466
+  },
+  "request_id": "7fc2c4a4-e8be-4716-8088-2d1679be5234",
+  "result": {
+    "url": "https://status.openai.com/",
+    "final_url": "https://status.openai.com/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T14:32:02.752157235Z",
+    "title": "OpenAI Status",
+    "description": "Latest service status for OpenAI",
+    "main_text": "We’re fully operational. We’re not aware of any issues affecting our systems.\nSystem status:\n- APIs: 14 components, 99.95% uptime\n- ChatGPT: 16 components, 99.52% uptime\n- Codex: 4 components, 99.95% uptime\n- FedRAMP: 1 components, 100% uptime\n- Ads Platform: 2 components, 99.992% uptime\nAvailability metrics are reported at an aggregate level across all tiers, models and error types. Individual customer availability may vary depending on their subscription tier as well as the specific model and API features in use.",
+    "language": "en-us",
+    "links": [
+      {
+        "text": "OpenAI Status",
+        "href": "https://status.openai.com/"
+      },
+      {
+        "text": "Atom feed",
+        "href": "https://status.openai.com/feed.atom"
+      },
+      {
+        "text": "RSS feed",
+        "href": "https://status.openai.com/feed.rss"
+      },
+      {
+        "text": "View history",
+        "href": "https://status.openai.com/history"
+      }
+    ],
+    "engine": "lightmount_lite",
+    "dom_id": "846754",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_lite",
+            "command": "safe_http.get",
+            "stdout": "{\"selected\": \"fast\", \"content_length\": 1937, \"selector\": \"body(fallback)\", \"status\": 200, \"final_url\": \"https://status.openai.com/\"}",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "overall_message": "We’re not aware of any issues affecting our systems.",
+      "overall_status": "We’re fully operational",
+      "system_statuses": [
+        {
+          "components_count": "14",
+          "name": "APIs",
+          "uptime_percentage": "99.95"
+        },
+        {
+          "components_count": "16",
+          "name": "ChatGPT",
+          "uptime_percentage": "99.52"
+        },
+        {
+          "components_count": "4",
+          "name": "Codex",
+          "uptime_percentage": "99.95"
+        },
+        {
+          "components_count": "1",
+          "name": "FedRAMP",
+          "uptime_percentage": "100"
+        },
+        {
+          "components_count": "2",
+          "name": "Ads Platform",
+          "uptime_percentage": "99.992"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "dom_id": "846755",
+    "server_elapsed_ms": 5797
+  },
+  "request_id": "45949b84-fd9d-411d-9941-363496f10ab5",
+  "result": {
+    "url": "https://status.stripe.com/",
+    "final_url": "https://status.stripe.com/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T14:32:09.108256374Z",
+    "title": "Stripe system status",
+    "description": "Real-time and historical data on Stripe system performance.",
+    "main_text": "Stripe system status Loading...",
+    "engine": "lightmount_dcl",
+    "dom_id": "846755",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 31, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://status.stripe.com/\"}",
+            "stderr": "\u001b[2m2026-10-19T14:32:08.854061Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://status.stripe.com/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m809",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "metadata": {
+        "title_candidates": [
+          "Stripe system status",
+          "Updates on the status of Stripe services"
+        ],
+        "meta_tags": {
+          "description": "Real-time and historical data on Stripe system performance.",
+          "twitter:card": "summary_large_image",
+          "twitter:image": "https://stripe-images.s3.amazonaws.com/content-store/upload-media/status-site-social-card.png",
+          "twitter:title": "Updates on the status of Stripe services",
+          "viewport": "width=device-width, initial-scale=1"
+        }
+      }
+    }
+  }
+}
